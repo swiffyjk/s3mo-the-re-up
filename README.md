@@ -1,7 +1,7 @@
 ### This is a work-in-progress. Stay tuned!
 
 # Sims 3 Mod Organizer: The Re-Up (S3MO)
-Organize Mods/CC for the Sims 3 and find conflicting resources.
+Organize Mods/CC for The Sims 3 and find conflicting resources.
 
 
 # Credits
